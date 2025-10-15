@@ -1,7 +1,7 @@
 fastapi
 uvicorn[standard]
 transformers
-torch
+torch --index-url https://download.pytorch.org/whl/cpu
 scikit-learn
 pandas
 datasets
